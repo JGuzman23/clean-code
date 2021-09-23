@@ -1,0 +1,9 @@
+C:\Users\renyg\source\repos\ConsoleApp.Models\bin\Debug\netcoreapp3.1\ConsoleApp.Models.deps.json
+C:\Users\renyg\source\repos\ConsoleApp.Models\bin\Debug\netcoreapp3.1\ConsoleApp.Models.dll
+C:\Users\renyg\source\repos\ConsoleApp.Models\bin\Debug\netcoreapp3.1\ConsoleApp.Models.pdb
+C:\Users\renyg\source\repos\ConsoleApp.Models\obj\Debug\netcoreapp3.1\ConsoleApp.Models.csproj.AssemblyReference.cache
+C:\Users\renyg\source\repos\ConsoleApp.Models\obj\Debug\netcoreapp3.1\ConsoleApp.Models.AssemblyInfoInputs.cache
+C:\Users\renyg\source\repos\ConsoleApp.Models\obj\Debug\netcoreapp3.1\ConsoleApp.Models.AssemblyInfo.cs
+C:\Users\renyg\source\repos\ConsoleApp.Models\obj\Debug\netcoreapp3.1\ConsoleApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\renyg\source\repos\ConsoleApp.Models\obj\Debug\netcoreapp3.1\ConsoleApp.Models.dll
+C:\Users\renyg\source\repos\ConsoleApp.Models\obj\Debug\netcoreapp3.1\ConsoleApp.Models.pdb

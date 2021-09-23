@@ -1,0 +1,14 @@
+C:\Users\renyg\source\repos\ConsoleApp.BL\bin\Debug\netcoreapp3.1\ConsoleApp.BL.deps.json
+C:\Users\renyg\source\repos\ConsoleApp.BL\bin\Debug\netcoreapp3.1\ConsoleApp.BL.dll
+C:\Users\renyg\source\repos\ConsoleApp.BL\bin\Debug\netcoreapp3.1\ConsoleApp.BL.pdb
+C:\Users\renyg\source\repos\ConsoleApp.BL\obj\Debug\netcoreapp3.1\ConsoleApp.BL.AssemblyInfoInputs.cache
+C:\Users\renyg\source\repos\ConsoleApp.BL\obj\Debug\netcoreapp3.1\ConsoleApp.BL.AssemblyInfo.cs
+C:\Users\renyg\source\repos\ConsoleApp.BL\obj\Debug\netcoreapp3.1\ConsoleApp.BL.csproj.CoreCompileInputs.cache
+C:\Users\renyg\source\repos\ConsoleApp.BL\obj\Debug\netcoreapp3.1\ConsoleApp.BL.dll
+C:\Users\renyg\source\repos\ConsoleApp.BL\obj\Debug\netcoreapp3.1\ConsoleApp.BL.pdb
+C:\Users\renyg\source\repos\ConsoleApp.BL\obj\Debug\netcoreapp3.1\ConsoleApp.BL.csproj.AssemblyReference.cache
+C:\Users\renyg\source\repos\ConsoleApp.BL\bin\Debug\netcoreapp3.1\ConsoleApp.Contracts.dll
+C:\Users\renyg\source\repos\ConsoleApp.BL\bin\Debug\netcoreapp3.1\ConsoleApp.Models.dll
+C:\Users\renyg\source\repos\ConsoleApp.BL\bin\Debug\netcoreapp3.1\ConsoleApp.Contracts.pdb
+C:\Users\renyg\source\repos\ConsoleApp.BL\bin\Debug\netcoreapp3.1\ConsoleApp.Models.pdb
+C:\Users\renyg\source\repos\ConsoleApp.BL\obj\Debug\netcoreapp3.1\ConsoleApp.BL.csproj.CopyComplete

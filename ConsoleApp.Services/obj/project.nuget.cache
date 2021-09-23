@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "FK4DpKjnExBoJ+mLVA+1MkA5BHg64s0FbkP2C5caGaD0AYlhYU+WMA4scmOrN3jZBKw5+xZ50OaqW5rY4Mi0Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Services\\ConsoleApp.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renyg\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\renyg\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\renyg\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\renyg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\renyg\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\renyg\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\renyg\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

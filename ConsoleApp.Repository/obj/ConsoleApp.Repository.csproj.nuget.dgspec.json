@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Repository\\ConsoleApp.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Contracts\\ConsoleApp.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Contracts\\ConsoleApp.Contracts.csproj",
+        "projectName": "ConsoleApp.Contracts",
+        "projectPath": "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Contracts\\ConsoleApp.Contracts.csproj",
+        "packagesPath": "C:\\Users\\renyg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\renyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Models\\ConsoleApp.Models.csproj": {
+                "projectPath": "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Models\\ConsoleApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Models\\ConsoleApp.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Models\\ConsoleApp.Models.csproj",
+        "projectName": "ConsoleApp.Models",
+        "projectPath": "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Models\\ConsoleApp.Models.csproj",
+        "packagesPath": "C:\\Users\\renyg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\renyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Repository\\ConsoleApp.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Repository\\ConsoleApp.Repository.csproj",
+        "projectName": "ConsoleApp.Repository",
+        "projectPath": "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Repository\\ConsoleApp.Repository.csproj",
+        "packagesPath": "C:\\Users\\renyg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\renyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Contracts\\ConsoleApp.Contracts.csproj": {
+                "projectPath": "C:\\Users\\renyg\\Documents\\Repos\\Clean Code\\ConsoleApp.Contracts\\ConsoleApp.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

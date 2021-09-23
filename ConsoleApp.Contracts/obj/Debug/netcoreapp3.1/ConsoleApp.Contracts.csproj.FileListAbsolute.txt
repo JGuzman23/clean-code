@@ -1,0 +1,12 @@
+C:\Users\renyg\source\repos\ConsoleApp.Contracts\bin\Debug\netcoreapp3.1\ConsoleApp.Contracts.deps.json
+C:\Users\renyg\source\repos\ConsoleApp.Contracts\bin\Debug\netcoreapp3.1\ConsoleApp.Contracts.dll
+C:\Users\renyg\source\repos\ConsoleApp.Contracts\bin\Debug\netcoreapp3.1\ConsoleApp.Contracts.pdb
+C:\Users\renyg\source\repos\ConsoleApp.Contracts\bin\Debug\netcoreapp3.1\ConsoleApp.Models.dll
+C:\Users\renyg\source\repos\ConsoleApp.Contracts\bin\Debug\netcoreapp3.1\ConsoleApp.Models.pdb
+C:\Users\renyg\source\repos\ConsoleApp.Contracts\obj\Debug\netcoreapp3.1\ConsoleApp.Contracts.csproj.AssemblyReference.cache
+C:\Users\renyg\source\repos\ConsoleApp.Contracts\obj\Debug\netcoreapp3.1\ConsoleApp.Contracts.AssemblyInfoInputs.cache
+C:\Users\renyg\source\repos\ConsoleApp.Contracts\obj\Debug\netcoreapp3.1\ConsoleApp.Contracts.AssemblyInfo.cs
+C:\Users\renyg\source\repos\ConsoleApp.Contracts\obj\Debug\netcoreapp3.1\ConsoleApp.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\renyg\source\repos\ConsoleApp.Contracts\obj\Debug\netcoreapp3.1\ConsoleApp.Contracts.csproj.CopyComplete
+C:\Users\renyg\source\repos\ConsoleApp.Contracts\obj\Debug\netcoreapp3.1\ConsoleApp.Contracts.dll
+C:\Users\renyg\source\repos\ConsoleApp.Contracts\obj\Debug\netcoreapp3.1\ConsoleApp.Contracts.pdb
